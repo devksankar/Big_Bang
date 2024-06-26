@@ -6,7 +6,7 @@ function setup() {
   
   function draw() {
     background(0);
-    fill(212, 175, 55);
+    fill(115, 0, 255);
     if (ifClicked == 0) {
       j = j + 1;
     } else {
